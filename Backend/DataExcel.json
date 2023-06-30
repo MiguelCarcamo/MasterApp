@@ -1,0 +1,192 @@
+[
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Master Actual/SewingOrdersDataARENA - Planner1.xlsx",
+        "Proceso" : "",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Master Actual/SewingOrdersDataARENA - Planner1.xlsx",
+        "Proceso" : "Sewing",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Sewing",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Master Actual/SewingOrdersDataARENA - Planner2-Inline.xlsx",
+        "Proceso" : "",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Master Actual/SewingOrdersDataARENA - Planner2-Inline.xlsx",
+        "Proceso" : "Sewing",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Sewing",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Cutting/CuttingOrdersDataARENA - Planner1.xlsm",
+        "Proceso" : "Cutting",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Cutting",
+        "Assigned" : "Assigned Date Cutting",
+        "AssignedWeeks" : "Assigned Weeks Cutting"
+    },
+    {
+        "Planta" : "SAC",
+        "PATH_FILES" : "S:/Southern/Production/WEEKLY/Sac WEEKLY/Sew Masters SAC/SewingOrdersDataSAC - Planner2.xlsx",
+        "Proceso" : "",
+        "SheetName" : "Master",
+        "Plant" : 1,
+        "Promissed" : "Promised Date",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "SAC",
+        "PATH_FILES" : "S:/Southern/Production/WEEKLY/Sac WEEKLY/Sew Masters SAC/SewingOrdersDataSAC - Planner2.xlsx",
+        "Proceso" : "Sewing",
+        "SheetName" : "Master",
+        "Plant" : 1,
+        "Promissed" : "Promised Date Sewing",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "SAC",
+        "PATH_FILES" : "S:/Southern/Production/WEEKLY/Sac WEEKLY/Sew Masters SAC/SewingOrdersDataSAC - Planner2.xlsx",
+        "Proceso" : "Cutting",
+        "SheetName" : "Master",
+        "Plant" : 1,
+        "Promissed" : "Promised Date Cutting",
+        "Assigned" : "Assigned Date Cutting",
+        "AssignedWeeks" : "Assigned Weeks Cutting"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedule Screenprint NFL-NCAA/Master SAC3 2022/Master SAC3_22...xlsx",
+        "Proceso" : "SP",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date SP",
+        "Assigned" : "Assigned Date SP",
+        "AssignedWeeks" : "Assigned Weeks SP"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Embroidery/EmbroideryOrdersDataARENA - Planner.xlsx",
+        "Proceso" : "EMBR",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Embroidery",
+        "Assigned" : "Assigned Date Embroidery",
+        "AssignedWeeks" : "Assigned Weeks Embroidery"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Embroidery/EmbroideryOrdersDataARENA - Planner.xlsx",
+        "Proceso" : "EMBR-FG",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Embroidery FG",
+        "Assigned" : "Assigned Date Embroidery",
+        "AssignedWeeks" : "Assigned Weeks Embroidery"
+    },
+    {
+        "Planta" : "27St",
+        "PATH_FILES" : "S:/San Pedro/Production/Cutting - Planning/WEEKLY/SewingOrdersData27ST - Planner.xlsx",
+        "Proceso" : "",
+        "SheetName" : "Master",
+        "Plant" : 3,
+        "Promissed" : "Promised Date",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "27St",
+        "PATH_FILES" : "S:/San Pedro/Production/Cutting - Planning/WEEKLY/SewingOrdersData27ST - Planner.xlsx",
+        "Proceso" : "Sewing",
+        "SheetName" : "Master",
+        "Plant" : 3,
+        "Promissed" : "Promised Date Sewing",
+        "Assigned" : "Assigned Date Sewing",
+        "AssignedWeeks" : "Assigned Weeks Sewing"
+    },
+    {
+        "Planta" : "27St",
+        "PATH_FILES" : "S:/San Pedro/Production/Cutting - Planning/WEEKLY/SewingOrdersData27ST - Planner.xlsx",
+        "Proceso" : "Cutting",
+        "SheetName" : "Master",
+        "Plant" : 3,
+        "Promissed" : "Promised Date Cutting",
+        "Assigned" : "Assigned Date Cutting",
+        "AssignedWeeks" : "Assigned Weeks Cutting"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Sublimation/SublimatedOrdersDataARENA - Planner1.xlsx",
+        "Proceso" : "SUB",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Sublimation",
+        "Assigned" : "Assigned Date",
+        "AssignedWeeks" : "Num Assigned"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules - Nike Modified/Master Actualizados/Sublimation/SublimatedOrdersDataARENA - Planner1.xlsx",
+        "Proceso" : "PLOTTER",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Plotter",
+        "Assigned" : "Assigned Date",
+        "AssignedWeeks" : "Num Assigned"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules MASTER LASER/MASTER_2022_HBS8.xlsm",
+        "Proceso" : "Carrusel",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Carrusel FG",
+        "Assigned" : "Assigned Date Carrusel FG",
+        "AssignedWeeks" : "Assigned Date Carrusel FG"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules MASTER LASER/MASTER_2022_HBS8.xlsm",
+        "Proceso" : "Perforation",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Perforation",
+        "Assigned" : "Assigned Date Perforation",
+        "AssignedWeeks" : "Assigned Date Perforation"
+    },
+    {
+        "Planta" : "ARN",
+        "PATH_FILES" : "S:/El Baron/Production/Schedules MASTER LASER/MASTER_2022_HBS8.xlsm",
+        "Proceso" : "Twill",
+        "SheetName" : "Master",
+        "Plant" : 2,
+        "Promissed" : "Promised Date Twill CP",
+        "Assigned" : "Assigned Date Twill CP",
+        "AssignedWeeks" : "Assigned Date Twill CP"
+    }
+]

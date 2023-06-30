@@ -1,0 +1,78 @@
+[
+    {
+        "Customer" : "NIKE",
+        "Container" : {
+            "Sheets": [
+                {
+                    "Name":"FLT",        
+                    "PositionTitle": 1,
+                    "Column" : {
+                        "Country": "Fcty Cd",
+                        "ProductDescription" : "APO Prod Desc",
+                        "StyleNumber" : "Styl Dsply Cd",
+                        "IDPlant" : "Factory",
+                        "ProductType" : "Product",
+                        "CustomerCategory" : "Financial",
+                        "StyleColorWay" : "Colr Dsply Cd",
+                        "StyleGender" : "Gndr Age Desc",
+                        "StyleColorName" : "Prim Colr Nm",
+                        "CustomerOrderType" : "SCM Cd" ,
+                        "BuyDateTentative" : "Glb Buy Dt",
+                        "StyleSeason" : "Dmnd Sesn",
+                        "CustomerPromisedDate" : "Bus Wk Strt Dt",
+                        "CustomerLeadTime1" : "Procmt LT",
+                        "CustomerLeadTime2" : "Mfg LT",
+                        "CustomerLeadTime3" : "Fcty GIPT",
+                        "QuantityRequested": "FLT FG Prodn Plan Unts"
+                    }
+                },
+                {
+                    "Name":"SLT",        
+                    "PositionTitle": 1,
+                    "Column" : {
+                        "Country": "Fcty Cd",
+                        "ProductDescription" : "APO Prod Desc",
+                        "StyleNumber" : "Styl Dsply Cd",
+                        "IDPlant" : "Factory",
+                        "ProductType" : "Product",
+                        "CustomerCategory" : "Financial",
+                        "StyleColorWay" : "Colr Dsply Cd",
+                        "StyleGender" : "Gndr Age Desc",
+                        "StyleColorName" : "Prim Colr Nm",
+                        "CustomerOrderType" : "SCM Cd" ,
+                        "BuyDateTentative" : "Glb Buy Dt",
+                        "StyleSeason" : "Dmnd Sesn",
+                        "CustomerPromisedDate" : "Bus Wk Strt Dt",
+                        "CustomerLeadTime1" : "Procmt LT",
+                        "CustomerLeadTime2" : "Mfg LT",
+                        "CustomerLeadTime3" : "Fcty GIPT",
+                        "QuantityRequested": "SLT FG Prodn Plan Unts"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Customer" : "ADIDAS",
+        "Container" : {
+            "Sheets": {
+                "Name":"APP Buy Plan with SMV",        
+                "PositionTitle": 0,
+                "Column" : {
+                    "T1 Supplier Name" : "IDPlant",
+                    "T1 Supplier Country" : "Country",
+                    "Working Number" : "StyleNumber",
+                    "Model DESC" : "ProductDescription",
+                    "Article" : "StyleColorWay",
+                    "Product" : "ProductType",
+                    "Product Type (FlexPLM)" : "CustomerCategory",
+                    "Lead Time" : "CustomerLeadTime",
+                    "CRD Half Month Period" : "CustomerPromisedDate",
+                    "Open Forecast (PV Unconstrained)" : "QuantityRequested",
+                    "Gender" : "StyleGender",
+                    "Season" : "StyleSeason"
+                }
+            }
+        }
+    }
+]
